@@ -26,8 +26,8 @@ I am a passionate Computer Science student dedicated to mastering the art of sof
 ---
 
 ### 📊 GitHub Stats
-![Haikal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haikal23095&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haikal23095&layout=compact&theme=radical)
+![Haikal's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=haikal23095&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haikal23095&layout=compact&theme=radical)
 
 ---
 
