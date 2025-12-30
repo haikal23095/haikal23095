@@ -11,6 +11,7 @@ I am a passionate Computer Science student dedicated to mastering the art of sof
 - 🌱 Learning the depths of **Kubernetes**, **CI/CD pipelines**, and **Advanced Networking**.
 - 💬 Ask me about **Python, Linux, or Cisco Networking**.
 - 📫 Reach me at: **firmansyahhaikal86@gmail.com**
+- 🐙 My second GitHub account: [haikal4002](https://github.com/haikal4002)
 
 ---
 
