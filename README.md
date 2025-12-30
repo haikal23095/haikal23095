@@ -10,7 +10,7 @@ I am a passionate Computer Science student dedicated to mastering the art of sof
 - 🔭 Working on sharpening my skills in **Cloud Infrastructure** and **Automation**.
 - 🌱 Learning the depths of **Kubernetes**, **CI/CD pipelines**, and **Advanced Networking**.
 - 💬 Ask me about **Python, Linux, or Cisco Networking**.
-- 📫 Reach me at: **[Email Kamu]**
+- 📫 Reach me at: **firmansyahhaikal86@gmail.com**
 
 ---
 
