@@ -1,7 +1,7 @@
 # Hi there, I'm Haikal! 👋
 ### Informatic Engineering Student | Networking Enthusiast | DevOps & Cloud Learner
 
-I am a passionate Computer Science student dedicated to mastering the art of software development and infrastructure. My journey involves bridging the gap between clean code and robust system architecture.
+I am a passionate Informatics Engineering student dedicated to mastering the art of software development and infrastructure. My journey involves bridging the gap between clean code and robust system architecture.
 
 ---
 
