@@ -27,8 +27,12 @@ I am a passionate Informatics Engineering student dedicated to mastering the art
 ---
 
 ### 📊 GitHub Stats
-![Haikal's Stats](https://github-readme-stats-fast.vercel.app/api?username=haikal23095&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haikal23095&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=haikal23095&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=haikal23095&theme=radical)
 
 ---
 
