@@ -27,15 +27,15 @@ I am a passionate Informatics Engineering student dedicated to mastering the art
 ---
 
 ### 📊 GitHub Stats
-![Haikal's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=haikal23095&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haikal23095&layout=compact&theme=radical)
+![Haikal's Stats](https://github-readme-stats.vercel.app/api?username=haikal23095&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haikal23095&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/muhammad-haikal-firmansyah)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/firman.haikalspear/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://haikal23095.github.io/porto-magang/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://porto.firmansyahdev.my.id/)
 
 ---
 *“Simplicity is the soul of efficiency.” – Austin Freeman*
