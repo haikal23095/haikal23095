@@ -31,8 +31,8 @@ I am a passionate Informatics Engineering student dedicated to mastering the art
 
 ---
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=haikal23095&theme=dracula)
+### 📈 Activity Graph
+![Haikal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haikal23095&theme=react-dark)
 
 ---
 
