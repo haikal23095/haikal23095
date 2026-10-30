@@ -31,8 +31,8 @@ I am a passionate Informatics Engineering student dedicated to mastering the art
 
 ---
 
-### 📈 Activity Graph
-![Haikal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haikal23095&theme=react-dark)
+### 🚀 Contribution Metrics
+![Metrics](https://metrics.lecoq.io/haikal23095?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=1&base.metadata=0)
 
 ---
 
