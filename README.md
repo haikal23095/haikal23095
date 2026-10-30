@@ -27,9 +27,8 @@ I am a passionate Informatics Engineering student dedicated to mastering the art
 ---
 
 ### 📊 GitHub Stats
-![Haikal's Stats](https://github-readme-stats.vercel.app/api?username=haikal23095&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haikal23095&layout=compact&theme=radical)
-
+![Haikal's Stats](https://github-readme-stats.vercel.app/api?username=haikal23095&show_icons=true&theme=radical&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haikal23095&layout=compact&theme=radical&hide_progress=true)
 ---
 
 ### 🌐 Let's Connect
