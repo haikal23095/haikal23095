@@ -32,7 +32,7 @@ I am a passionate Informatics Engineering student dedicated to mastering the art
 ---
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=haikal23095&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=haikal23095&theme=onedark)
 
 ---
 
